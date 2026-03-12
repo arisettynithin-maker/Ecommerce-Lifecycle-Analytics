@@ -5,19 +5,6 @@ End-to-end analytics project analyzing **~2 million e-commerce user events** to 
 The project combines **SQL, Python, and Power BI** to transform raw event data into actionable insights for product and marketing teams.
 
 ---
-## Project Snapshot
-
-| Metric | Value |
-|------|------|
-| Dataset Size | **~2M e-commerce events** |
-| Unique Users | **935K+ customers** |
-| Event Types | View, Cart, Purchase |
-| Tools Used | **SQL, Python, Power BI** |
-| Key Focus | Funnel Analysis, Retention, Customer Segmentation |
-
-This project analyzes large-scale e-commerce user behaviour to understand **conversion patterns, retention dynamics, and customer value segments**, using an end-to-end analytics pipeline built with SQL, Python, and Power BI.
-
----
 
 ---
 
